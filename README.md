@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibodullo
-- 👀 I’m interested in Android development 
+- 👀 I’m interested in Golang development 
 - 👀 My current level: Junior
-- 🌱 I’m currently learning android studio, JAVA and kotlin
+- 🌱 I’m currently learning go, Gorm, PostgresSQL, Docker, Swagger JWT Token and ect.
 - 📫 How to reach me: ibod.abdulloev65@gmail.com, Telegram: +992987772455
 
 <!---
